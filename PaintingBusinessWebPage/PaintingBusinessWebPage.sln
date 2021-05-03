@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintingBusinessWebPage", "PaintingBusinessWebPage\PaintingBusinessWebPage.csproj", "{EF1C01B7-E754-47EB-9A06-1B39C98E282E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF1C01B7-E754-47EB-9A06-1B39C98E282E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1C01B7-E754-47EB-9A06-1B39C98E282E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1C01B7-E754-47EB-9A06-1B39C98E282E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1C01B7-E754-47EB-9A06-1B39C98E282E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {994789A7-E4D2-43B2-A811-19FB479DE0D6}
+	EndGlobalSection
+EndGlobal
