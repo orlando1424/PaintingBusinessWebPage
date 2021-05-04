@@ -8,26 +8,56 @@
 
 
 
-<div style ="background:transparent !important" class="jumbotron jumbotron-fluid" >
+@*<div id="banner" style ="background:transparent !important" class="jumbotron jumbotron-fluid" >
     <div class="container-fluid">
   <h1 class="display-4">AllPros, where paint matters!</h1>
   <p class="lead">Here at AllPros we take pride in what we do. Be assured that all your painting projects will be handled by expert painters.</p>
 
-        <div style="background:transparent !important"  class="card w-100">
+    <img class="img-fluid" src="~/images/personpainting.jpg" />
+   </div>
+</div>*@
+
+<div class="hero-image">
+    <div class="hero-text">
+        <h1 style="font-size:50px">AllPros, where paint matters!</h1>
+        <h3>Here at AllPros we take pride in what we do. Be assured that all your painting projects will be handled by expert painters.</h3>
+    </div>
+</div>
+
+<br />
+
+<container class="text-center">
+ <div style="background:transparent !important" class="card w-100">
   <div class="card-body">
-    <h5 class="card-title">Services we do</h5>
-    <p class="card-text"> Residential services</p>
-      <p class="card-text"> Commercial services</p>
+    <h4 class="card-title">Services we offer:</h4>
+      <br />
+    <h5 class="card-text"> Residential services:</h5>
+      <p class="card-text"> - Interior painting of rooms</p>
+      <p class="card-text"> - Outdoor painting</p>
+      <p class="card-text"> - Staining </p>
+      <p class="card-text"> - Doors and window frames</p>
+      <p class="card-text"> - Cabinet refinishing and repainting</p>
+      <p class="card-text"> - Wallpaper Removal</p>
+      <h5 class="card-text"> Commercial services:</h5>
+      <p class="card-text"> - Interior Painting</p>
+      <p class="card-text"> - High-Durability Coatings</p>
+      <p class="card-text"> - Drywall Repair</p>
+      <p class="card-text"> - Tilt-up Repairs and Painting</p>
+      <p class="card-text"> - Power Washing</p>
+
+
+      <br />
     <a asp-controller="Contact" asp-action="contact" class="btn btn-primary">Contact Us</a>
   </div>
 </div>
-  <hr class="my-4">
-  <p>Your painting projects are in good hands!</p>
+
+ </container>
+
+ <hr class="my-4">
+  <h5>Your painting projects are in good hands!</h5>
   <p class="lead">
     <a class="btn btn-primary btn-lg" asp-controller="Home" asp-action="Projects"  role="button">Check out our work</a>
   </p>
-   </div>
-</div>
 
 
 
