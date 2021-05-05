@@ -23,3 +23,31 @@
     transform: translate(-50%, -50%);
     color: ghostwhite;
 }
+.about-column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+.about-card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+}
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.about-container {
+  padding: 0 16px;
+}
+
+.about-container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
