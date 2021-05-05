@@ -47,7 +47,7 @@
 
 
       <br />
-    <a asp-controller="Contact" asp-action="contact" class="btn btn-primary">Contact Us</a>
+    <a asp-controller="Contact" asp-action="contact" class="btn btn-primary bg-dark">Contact Us</a>
   </div>
 </div>
 
@@ -55,8 +55,42 @@
 
  <hr class="my-4">
   <h5>Your painting projects are in good hands!</h5>
-  <p class="lead">
-    <a class="btn btn-primary btn-lg" asp-controller="Home" asp-action="Projects"  role="button">Check out our work</a>
+
+ <div class="card-deck" style="background:transparent !important">
+        <div class="card">
+            <img src="/images/personpainting.jpg" class="card-img-top rounded" alt="">
+            <div class="card-body">
+                <h5 class="card-title">Highly qualified and professional painters.</h5>
+                <p class="card-text">Our painters take pride in their work and will make sure that your project is done right.</p>
+                
+            </div>
+        </div>
+        <div class="card" >
+            <img src="/images/entryway.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">High Quality Painting</h5>
+                <p class="card-text">We make sure that we are as careful as can be when painting for our customers. We will cover all areas 
+                of the house to make sure that paint does not get into where it shouldn't be</p>
+                
+            </div>
+        </div>
+        <div class="card">
+            <img src="/images/rollerbrush.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Best Quality tools</h5>
+                <p class="card-text">We use the best quality tools available to make sure your projects come out the way you intended them.</p>
+                
+                <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
+            </div>
+        </div>
+    </div>
+
+
+
+<br />
+
+  <p class="lead text-center">
+    <a class="btn btn-primary btn-lg bg-dark" asp-controller="Home" asp-action="Projects"  role="button">Check out our work</a>
   </p>
 
 
