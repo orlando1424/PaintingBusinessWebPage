@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repos\\ASP Final Project\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage.csproj": {}
+    "C:\\Users\\2000207986\\Documents\\Repos\\Final Project\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage.csproj": {}
   },
   "projects": {
-    "D:\\Repos\\ASP Final Project\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage.csproj": {
+    "C:\\Users\\2000207986\\Documents\\Repos\\Final Project\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repos\\ASP Final Project\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage.csproj",
+        "projectUniqueName": "C:\\Users\\2000207986\\Documents\\Repos\\Final Project\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage.csproj",
         "projectName": "PaintingBusinessWebPage",
-        "projectPath": "D:\\Repos\\ASP Final Project\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage.csproj",
-        "packagesPath": "C:\\Users\\Orlando\\.nuget\\packages\\",
-        "outputPath": "D:\\Repos\\ASP Final Project\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\obj\\",
+        "projectPath": "C:\\Users\\2000207986\\Documents\\Repos\\Final Project\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage.csproj",
+        "packagesPath": "C:\\Users\\2000207986\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\2000207986\\Documents\\Repos\\Final Project\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\PaintingBusinessWebPage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Orlando\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\2000207986\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -66,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
