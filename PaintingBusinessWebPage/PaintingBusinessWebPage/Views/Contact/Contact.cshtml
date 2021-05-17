@@ -1,7 +1,49 @@
-﻿
+﻿@model PaintingBusinessWebPage.Models.ContactViewModel
+
 @{
     ViewData["Title"] = "Contact";
 }
 
-<h1>Contact</h1>
+@*<h1>Contact</h1>*@
 
+<div class="form" @*style="height:500px; width:600px;"*@>
+  
+    <form method="post" asp-action="contact" role="form">
+        <h3>Have a question? let us know!</h3>
+
+        <!-- Name input-->
+        <div class="form-outline mb-4">
+            <input type="text" id="name" class="form-control" />
+            <label class="form-label" for="name">Name</label>
+        </div>
+
+        <!--Email input -->
+        <div class="form-outline mb-4">
+            <input type="email" id="email" class="form-control" />
+            <label class="form-label" for="email">Email address</label>
+        </div>
+
+        <!-- Message input -->
+        <div class="form-outline mb-4">
+            <textarea class="form-control" id="message" rows="4"></textarea>
+            <label class="form-label" for="message">Message</label>
+        </div>
+
+        <!-- Checkbox -->
+        <div class="form-check d-flex justify-content-center mb-4">
+            <input
+                   class="form-check-input me-2"
+                   type="checkbox"
+                   value=""
+                   id="checkbox"
+                   checked
+                   />
+            <label class="form-check-label" for="checkbox">
+                Send me a copy of this message
+            </label>
+        </div> 
+
+        <!-- Submit button -->
+        <button type="submit" class="btn btn-outline-dark btn-block mb-4">Send</button>
+    </form>
+</div>
