@@ -28,14 +28,14 @@ namespace PaintingBusinessWebPage
 
             EmailServerConfiguration config = new EmailServerConfiguration
             {
-                SmtpPassword = "Password",
-                SmtpServer = "smtp.someserver.com",
-                SmtpUsername = "someemail"
+                SmtpPassword = "OLotech12!",
+                SmtpServer = "smtp.gmail.com",
+                SmtpUsername = "orlando.lopez7986@omail.otech.edu"
             };
 
             EmailAddress FromEmailAddress = new EmailAddress
             {
-                Address = "myemailaddress",
+                Address = "orlando.lopez7986@omail.otech.edu",
                 Name = "Orlando Lopez"
             };
 

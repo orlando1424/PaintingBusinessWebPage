@@ -6,8 +6,10 @@
 
 @*<h1>Contact</h1>*@
 
+<!--  https://nickolasfisher.com/blog/How-To-Make-a-Basic-Working-Contact-Form-With-ASP-NET-Core-MVC-and-MailKit -->
+
 <div class="form" @*style="height:500px; width:600px;"*@>
-  
+
     <form method="post" asp-action="contact" asp-controller="Contact" role="form" id="contactForm">
         <h3>Have a question? let us know!</h3>
 
@@ -31,17 +33,15 @@
 
         <!-- Checkbox -->
         <div class="form-check d-flex justify-content-center mb-4">
-            <input
-                   class="form-check-input me-2"
+            <input class="form-check-input me-2"
                    type="checkbox"
                    value=""
                    id="checkbox"
-                   checked
-                   />
+                   checked />
             <label class="form-check-label" for="checkbox">
                 Send me a copy of this message
             </label>
-        </div> 
+        </div>
 
         <!-- Submit button -->
         <button type="submit" class="btn btn-outline-dark btn-block mb-4">Send</button>
