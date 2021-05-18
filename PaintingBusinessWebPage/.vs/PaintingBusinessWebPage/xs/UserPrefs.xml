@@ -1,22 +1,23 @@
 ﻿<Properties StartupConfiguration="{EF1C01B7-E754-47EB-9A06-1B39C98E282E}|Default">
   <MonoDevelop.Ide.ItemProperties.PaintingBusinessWebPage PreferredExecutionTarget="/Applications/Firefox.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PaintingBusinessWebPage/Controllers/ContactController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PaintingBusinessWebPage/Views/Home/About.cshtml">
     <Files>
       <File FileName="PaintingBusinessWebPage/Views/Contact/Contact.cshtml" Line="37" Column="35" />
-      <File FileName="PaintingBusinessWebPage/Views/Contact/Success.cshtml" Line="9" Column="61" />
-      <File FileName="PaintingBusinessWebPage/Controllers/ContactController.cs" Line="42" Column="58" />
+      <File FileName="PaintingBusinessWebPage/Views/Contact/Success.cshtml" Line="8" Column="14" />
+      <File FileName="PaintingBusinessWebPage/Controllers/ContactController.cs" Line="56" Column="1" />
+      <File FileName="PaintingBusinessWebPage/Views/Home/About.cshtml" Line="28" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="PaintingBusinessWebPage" expanded="True">
             <Node name="PaintingBusinessWebPage" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="ContactController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Contact" expanded="True" />
-                <Node name="Home" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="About.cshtml" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
