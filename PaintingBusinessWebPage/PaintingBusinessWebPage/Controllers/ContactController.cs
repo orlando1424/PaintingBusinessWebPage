@@ -25,7 +25,7 @@ namespace PaintingBusinessWebPage.Controllers
 
         [HttpPost]
 
-        public IActionResult Contact(ContactViewModel model)
+        public IActionResult Contact(ContactViewModel viewmodel)
         {
             if (ModelState.IsValid)
             {
@@ -33,13 +33,13 @@ namespace PaintingBusinessWebPage.Controllers
                 {
                     FromAddresses = new List<EmailAddress> { FromAndToEmailAddress },
                     ToAddresses = new List<EmailAddress> { FromAndToEmailAddress },
-                    Content = $"Here is your message: Name: {model.Name}, " +
-                    $"Email: {model.Email}, Message: {model.Message}",
+                    Content = $"Here is your message: Name: {viewmodel.Name}, " +
+                    $"Email: {viewmodel.Email}, Message: {viewmodel.Message}",
                     Subject = "Contact Form Message "
                 };
 
                 EmailService.Send(msgToSend);
-                return RedirectToAction("Index");
+                return View();
             }
             else
             {
