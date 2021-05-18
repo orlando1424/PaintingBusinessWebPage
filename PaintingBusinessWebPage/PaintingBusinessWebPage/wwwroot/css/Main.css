@@ -1,4 +1,8 @@
-﻿body {
+﻿* {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
     background-image: url('../images/ladder.jpg');
     background-repeat: no-repeat;
     
