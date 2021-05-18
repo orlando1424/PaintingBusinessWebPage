@@ -1,229 +1,345 @@
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\appsettings.Development.json
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.exe
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.deps.json
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.runtimeconfig.json
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.runtimeconfig.dev.json
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.pdb
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.Views.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.Views.pdb
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.csprojAssemblyReference.cache
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.AssemblyInfoInputs.cache
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.AssemblyInfo.cs
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.csproj.CoreCompileInputs.cache
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.MvcApplicationPartsAssemblyInfo.cache
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.RazorAssemblyInfo.cache
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.RazorAssemblyInfo.cs
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\staticwebassets\PaintingBusinessWebPage.StaticWebAssets.Manifest.cache
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\staticwebassets\PaintingBusinessWebPage.StaticWebAssets.xml
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\scopedcss\bundle\PaintingBusinessWebPage.styles.css
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.TagHelpers.input.cache
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.TagHelpers.output.cache
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.RazorCoreGenerate.cache
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.RazorTargetAssemblyInfo.cache
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.RazorTargetAssemblyInfo.cs
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.Views.pdb
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.pdb
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.genruntimeconfig.cache
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.csproj.CopyComplete
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Contact.cshtml.g.cs
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
-D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Home\Projects.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.exe
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.deps.json
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.runtimeconfig.json
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.runtimeconfig.dev.json
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.pdb
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.Views.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\PaintingBusinessWebPage.Views.pdb
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.csprojAssemblyReference.cache
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.AssemblyInfoInputs.cache
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.AssemblyInfo.cs
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.csproj.CoreCompileInputs.cache
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.RazorAssemblyInfo.cache
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.RazorAssemblyInfo.cs
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\staticwebassets\PaintingBusinessWebPage.StaticWebAssets.Manifest.cache
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\staticwebassets\PaintingBusinessWebPage.StaticWebAssets.xml
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\scopedcss\bundle\PaintingBusinessWebPage.styles.css
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.TagHelpers.input.cache
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.TagHelpers.output.cache
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.RazorCoreGenerate.cache
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Contact.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Home\Projects.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.RazorTargetAssemblyInfo.cache
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.RazorTargetAssemblyInfo.cs
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.Views.pdb
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.csproj.CopyComplete
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.pdb
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.genruntimeconfig.cache
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\MailKit.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\MimeKit.dll
-C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/appsettings.Development.json
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/appsettings.json
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.exe
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.deps.json
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.runtimeconfig.json
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.runtimeconfig.dev.json
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.pdb
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.Views.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.Views.pdb
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.csprojAssemblyReference.cache
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.AssemblyInfoInputs.cache
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.AssemblyInfo.cs
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.csproj.CoreCompileInputs.cache
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.MvcApplicationPartsAssemblyInfo.cache
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.RazorAssemblyInfo.cache
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.RazorAssemblyInfo.cs
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/staticwebassets/PaintingBusinessWebPage.StaticWebAssets.Manifest.cache
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/staticwebassets/PaintingBusinessWebPage.StaticWebAssets.xml
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/scopedcss/bundle/PaintingBusinessWebPage.styles.css
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.TagHelpers.input.cache
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.TagHelpers.output.cache
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.RazorCoreGenerate.cache
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.RazorTargetAssemblyInfo.cache
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.RazorTargetAssemblyInfo.cs
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.Views.pdb
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.pdb
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.genruntimeconfig.cache
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.csproj.CopyComplete
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Contact/Contact.cshtml.g.cs
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
+D:/Repos/ASP Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Home/Projects.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.exe
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.deps.json
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.runtimeconfig.json
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.runtimeconfig.dev.json
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.pdb
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.Views.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.Views.pdb
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.csprojAssemblyReference.cache
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.AssemblyInfoInputs.cache
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.AssemblyInfo.cs
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.csproj.CoreCompileInputs.cache
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.RazorAssemblyInfo.cache
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.RazorAssemblyInfo.cs
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/staticwebassets/PaintingBusinessWebPage.StaticWebAssets.Manifest.cache
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/staticwebassets/PaintingBusinessWebPage.StaticWebAssets.xml
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/scopedcss/bundle/PaintingBusinessWebPage.styles.css
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.TagHelpers.input.cache
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.TagHelpers.output.cache
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.RazorCoreGenerate.cache
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Contact/Contact.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Home/Projects.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.RazorTargetAssemblyInfo.cache
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.RazorTargetAssemblyInfo.cs
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.Views.pdb
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.csproj.CopyComplete
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.pdb
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.genruntimeconfig.cache
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/MailKit.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/MimeKit.dll
+C:/Users/2000207986/Documents/Repos/Final Project/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.deps.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.runtimeconfig.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.runtimeconfig.dev.json
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.Views.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/PaintingBusinessWebPage.Views.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/MailKit.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/MimeKit.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/BouncyCastle.Crypto.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.csprojAssemblyReference.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.AssemblyInfoInputs.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.AssemblyInfo.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.csproj.CoreCompileInputs.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.MvcApplicationPartsAssemblyInfo.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.RazorAssemblyInfo.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.RazorAssemblyInfo.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/staticwebassets/PaintingBusinessWebPage.StaticWebAssets.Manifest.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/staticwebassets/PaintingBusinessWebPage.StaticWebAssets.xml
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/scopedcss/bundle/PaintingBusinessWebPage.styles.css
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.TagHelpers.input.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.TagHelpers.output.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.RazorCoreGenerate.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Contact/Contact.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Contact/Success.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Home/About.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Home/Projects.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.RazorTargetAssemblyInfo.cache
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.RazorTargetAssemblyInfo.cs
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.Views.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.csproj.CopyComplete
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.dll
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.pdb
+/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/PaintingBusinessWebPage/PaintingBusinessWebPage/PaintingBusinessWebPage/obj/Debug/netcoreapp3.1/PaintingBusinessWebPage.genruntimeconfig.cache

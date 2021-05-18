@@ -39,12 +39,17 @@ namespace PaintingBusinessWebPage.Controllers
                 };
 
                 EmailService.Send(msgToSend);
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("Success");
             }
             else
             {
                 return View();
             }
+        }
+
+        public IActionResult Success()
+        {
+            return View();
         }
     }
 }
