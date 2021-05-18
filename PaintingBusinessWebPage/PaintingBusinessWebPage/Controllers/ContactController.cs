@@ -24,7 +24,6 @@ namespace PaintingBusinessWebPage.Controllers
         }
 
         [HttpPost]
-
         public IActionResult Contact(ContactViewModel viewmodel)
         {
             if (ModelState.IsValid)
