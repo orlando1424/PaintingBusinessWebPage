@@ -39,7 +39,7 @@ namespace PaintingBusinessWebPage.Controllers
                 };
 
                 EmailService.Send(msgToSend);
-                return View();
+                return RedirectToAction("Index", "Home");
             }
             else
             {
