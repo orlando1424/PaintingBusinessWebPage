@@ -9,27 +9,6 @@
       <File FileName="PaintingBusinessWebPage/Views/Shared/_Layout.cshtml" />
       <File FileName="PaintingBusinessWebPage/wwwroot/css/Main.css" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="PaintingBusinessWebPage" expanded="True">
-            <Node name="PaintingBusinessWebPage" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="ContactController.cs" selected="True" />
-              </Node>
-              <Node name="Views" expanded="True">
-                <Node name="Contact" expanded="True" />
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
