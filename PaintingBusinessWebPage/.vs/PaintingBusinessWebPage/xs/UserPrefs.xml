@@ -5,9 +5,9 @@
       <File FileName="PaintingBusinessWebPage/Views/Contact/Contact.cshtml" Line="66" Column="38" />
       <File FileName="PaintingBusinessWebPage/Views/Contact/Success.cshtml" />
       <File FileName="PaintingBusinessWebPage/Controllers/ContactController.cs" Line="32" Column="18" />
-      <File FileName="PaintingBusinessWebPage/Views/Home/About.cshtml" Line="28" Column="7" />
-      <File FileName="PaintingBusinessWebPage/Views/Shared/_Layout.cshtml" Line="11" Column="1" />
-      <File FileName="PaintingBusinessWebPage/wwwroot/css/Main.css" Line="2" Column="45" />
+      <File FileName="PaintingBusinessWebPage/Views/Home/About.cshtml" />
+      <File FileName="PaintingBusinessWebPage/Views/Shared/_Layout.cshtml" />
+      <File FileName="PaintingBusinessWebPage/wwwroot/css/Main.css" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
