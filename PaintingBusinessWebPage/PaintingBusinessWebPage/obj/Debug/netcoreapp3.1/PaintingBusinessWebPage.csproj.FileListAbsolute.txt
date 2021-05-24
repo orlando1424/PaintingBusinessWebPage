@@ -343,3 +343,4 @@ C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\Painti
 C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.dll
 C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.pdb
 C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.genruntimeconfig.cache
+C:\Users\2000207986\Documents\Repos\Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.csprojAssemblyReference.cache
