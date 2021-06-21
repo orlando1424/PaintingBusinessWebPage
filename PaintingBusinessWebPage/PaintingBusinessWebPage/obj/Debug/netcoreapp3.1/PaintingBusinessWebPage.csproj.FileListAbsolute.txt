@@ -347,3 +347,4 @@ D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\Paint
 D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.dll
 D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.pdb
 D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.genruntimeconfig.cache
+D:\Repos\ASP Final Project\PaintingBusinessWebPage\PaintingBusinessWebPage\PaintingBusinessWebPage\obj\Debug\netcoreapp3.1\PaintingBusinessWebPage.csprojAssemblyReference.cache
